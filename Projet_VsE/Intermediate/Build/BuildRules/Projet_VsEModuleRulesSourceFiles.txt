@@ -1,0 +1,3 @@
+C:\Users\Gautier\Documents\Unreal Projects\Projet_VsE\Source\Projet_VsE\Projet_VsE.Build.cs
+C:\Users\Gautier\Documents\Unreal Projects\Projet_VsE\Source\Projet_VsE.Target.cs
+C:\Users\Gautier\Documents\Unreal Projects\Projet_VsE\Source\Projet_VsEEditor.Target.cs

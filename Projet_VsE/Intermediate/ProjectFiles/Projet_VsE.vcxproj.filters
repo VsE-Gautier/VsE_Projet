@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Projet_VsE.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{72482A1E-E91D-4499-89C0-B3F082850C1C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Projet_VsE.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Projet_VsEEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{6EC2F6AD-4E50-4A70-95C3-873E06C391C5}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Projet_VsE">
+			<UniqueIdentifier>{01CCBC99-1E9D-4694-A7CF-B269FA7B44A6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Projet_VsE\Projet_VsE.Build.cs">
+			<Filter>Source\Projet_VsE</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Projet_VsE\Projet_VsE.cpp">
+			<Filter>Source\Projet_VsE</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Projet_VsE\Projet_VsE.h">
+			<Filter>Source\Projet_VsE</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Projet_VsE\Projet_VsEGameModeBase.cpp">
+			<Filter>Source\Projet_VsE</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Projet_VsE\Projet_VsEGameModeBase.h">
+			<Filter>Source\Projet_VsE</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
